@@ -173,12 +173,6 @@ const default_config = {
           name: "social media",
           links: [
             {
-              name: "telegram",
-              url: "https://web.telegram.org",
-              icon: "brand-telegram",
-              icon_color: palette.green,
-            },
-            {
               name: "facebook",
               url: "https://www.facebook.com",
               icon: "brand-facebook",
@@ -186,7 +180,7 @@ const default_config = {
             },
             {
               name: "reddit",
-              url: "https://www.reddit.com/r/unixporn",
+              url: "https://www.reddit.com/user/sakennn48/",
               icon: "brand-reddit",
               icon_color: palette.red,
             },
@@ -237,16 +231,10 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "patreon",
-              url: "https://www.patreon.com",
-              icon: "brand-patreon",
-              icon_color: palette.red,
-            },
-            {
               name: "music",
               url: "https://musicforprogramming.net",
               icon: "binary-tree",
-              icon_color: palette.peach,
+              icon_color: palette.blue,
             },
           ],
         },
