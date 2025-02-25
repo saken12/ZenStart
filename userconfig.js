@@ -77,7 +77,7 @@ const default_config = {
             {
               name: "r/programming",
               url: "https://www.reddit.com/r/programming/",
-              icon: "brackets-angle",
+              icon: "code",
               icon_color: palette.red,
             },
           ],
