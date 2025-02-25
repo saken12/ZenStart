@@ -43,7 +43,7 @@ const default_config = {
           ],
         },
         {
-          name: "",
+          name: "code",
           links: [
             {
               name: "github",
