@@ -1,4 +1,4 @@
-// latte / frappe / macchiato / mocha
+/// latte / frappe / macchiato / mocha
 const palette = macchiato;
 
 const default_config = {
