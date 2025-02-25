@@ -60,37 +60,25 @@ const default_config = {
           ],
         },
         {
-          name: "media",
+          name: "resoursces",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
-              icon: "news",
+              name: "freesound",
+              url: "https://freesound.org/",
+              icon: "volume",
               icon_color: palette.green,
             },
-            {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
-              icon: "badge-filled",
+           {
+              name: "hackernews",
+              url: "https://news.ycombinator.com",
+              icon: "brand-redhat",
               icon_color: palette.peach,
             },
             {
-              name: "куток",
-              url: "https://kutok.io",
-              icon: "border-radius",
+              name: "r/programming",
+              url: "https://www.reddit.com/r/programming/",
+              icon: "brackets-angle",
               icon_color: palette.red,
-            },
-            {
-              name: "ґрунт",
-              url: "https://grnt.media",
-              icon: "eye-bolt",
-              icon_color: palette.blue,
-            },
-            {
-              name: "village",
-              url: "https://www.village.com.ua",
-              icon: "home-2",
-              icon_color: palette.mauve,
             },
           ],
         },
@@ -103,12 +91,6 @@ const default_config = {
         {
           name: "development",
           links: [
-            {
-              name: "github",
-              url: "https://github.com",
-              icon: "brand-github",
-              icon_color: palette.green,
-            },
             {
               name: "neptune",
               url: "https://ui.neptune.ai",
