@@ -20,12 +20,12 @@ const default_config = {
       background_url: "src/img/banners/cbg-09.gif",
       categories: [
         {
-          name: "bookmarks",
+          name: "personal",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
-              icon: "droplet-bolt",
+              name: "instagram",
+              url: "https://www.instagram.com/sakennn12",
+              icon: "brand-instagram",
               icon_color: palette.green,
             },
             {
