@@ -41,6 +41,7 @@
   user-select: none;
 
   font-family: 'JetBrainsMono Nerd Font', monospace;
+  src: url(../fonts/JetBrainsMonoNerdFont-Regular.ttf);
 }
 
 *:not(:defined) {
